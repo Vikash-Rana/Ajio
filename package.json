@@ -1,0 +1,17 @@
+{
+  "name": "ajio",
+  "version": "1.0.0",
+  "description": "Cypress Ajio Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash Rana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
